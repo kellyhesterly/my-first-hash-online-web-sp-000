@@ -4,8 +4,8 @@ end
 
 def shipping_manifest
   {"whale bone corsets" => 2,
-  "oil paintings" => 5,
-"porcelain vases" => 3}
+  "oil paintings" => 3,
+"porcelain vases" => 5}
 end
 
 def retrieval
